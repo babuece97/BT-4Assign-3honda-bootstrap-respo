@@ -1,0 +1,29 @@
+.button-background{
+background-color: #E76F51;
+}
+.header-background{
+  background-color: #264653;
+  
+}
+.text-description{
+  color:#E0E0E0;
+  
+}
+.text-style{
+  text-decoration: none;
+}
+#future-bike1 img{
+  filter: grayscale(70%);
+}
+#future-bike2 img{
+  filter: grayscale(100%);
+}
+.fa-star{
+  color:#E76F51;
+}
+a{
+  text-decoration: none;
+  background-color: orange;
+  color:#fff;
+  padding: 5px;
+}
